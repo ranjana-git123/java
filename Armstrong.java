@@ -17,6 +17,6 @@ class Armstrong {
     }
 }
 
-//output
-//153 
-//YES IT IS A ARMSTRONG NUMBER
+// output
+// 153 
+// YES IT IS A ARMSTRONG NUMBER
