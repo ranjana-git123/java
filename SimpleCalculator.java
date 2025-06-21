@@ -38,3 +38,10 @@ public class SimpleCalculator {
         
     }
 }
+
+// Enter a num1: 3
+// Enter a num2: 2
+// Enter any operation: + - * /: 
+// *
+// Result = 6.0
+
