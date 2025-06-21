@@ -15,3 +15,10 @@ class VowelConsonant {
         }
         }
     }
+
+// Enter any character: e
+// e is a Vowel.
+
+// Enter any character: z
+// z is a Consonant.
+
