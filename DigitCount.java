@@ -9,3 +9,5 @@ class DigitCount {
         System.out.println("Digit Count :"+ count);
     }
 }
+
+// Digit Count :3
