@@ -17,3 +17,7 @@ class PosNegO {
         }
     }
 }
+// Enter a number: -2
+// It is a negative number
+// Enter a number: 28
+// It is a positive number 
