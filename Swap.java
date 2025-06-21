@@ -17,3 +17,10 @@ class Swap {
             System.out.println("num2 ="+ num2);
         }
     }
+
+// Enter a number 1: 2
+// Enter a number 2: 3
+// After Swapping: 
+// num1 =3
+// num2 =2
+
