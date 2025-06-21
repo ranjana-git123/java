@@ -8,3 +8,7 @@ class ExtractSingleDigit {
         }
     }
 }
+
+// 3
+// 2
+// 1
