@@ -10,3 +10,5 @@ class SumOfDigit {
         System.out.println("Sum of the digits are :"+ sum);
     }
 }
+
+// Sum of the digits are :6
