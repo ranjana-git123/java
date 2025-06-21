@@ -6,3 +6,5 @@ class lastNumber {
         System.out.println("result:"+ result);
     }
 }
+
+// result:3
