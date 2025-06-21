@@ -8,3 +8,4 @@ class SumofLastDigit {
         System.out.println("result:"+ C);
     }
 }
+// result:13
