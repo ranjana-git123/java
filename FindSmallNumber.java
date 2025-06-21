@@ -15,4 +15,5 @@ class FindSmallNumber{
         System.out.println("Smallest digit: " + small);
     }
 }
- 
+
+// Smallest digit: 1
