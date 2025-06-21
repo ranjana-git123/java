@@ -26,3 +26,17 @@ public class EvenOddSum {
         System.out.println("Sum of Even Numbers: " + evenSum);
     }
 }
+
+// 1
+// 3
+// 5
+// 7
+// 9
+// Sum of Odd Numbers: 25
+
+// 2
+// 4
+// 6
+// 8
+// 10
+// Sum of Even Numbers: 30
