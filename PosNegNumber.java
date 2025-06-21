@@ -16,3 +16,14 @@ public class PosNegNumber {
             
     }
 }
+
+// positive number 
+//35
+// 80
+// 100
+
+// Negative number 
+// -20
+// -14
+// -56
+
