@@ -1,3 +1,4 @@
+import java.util.Scanner;
 public class LeapYear {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
@@ -13,3 +14,6 @@ public class LeapYear {
         }
     }
 }
+
+// Enter a year: 2024
+// 2024 is a Leap Year.
