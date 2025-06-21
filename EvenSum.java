@@ -12,3 +12,11 @@ public class EvenSum {
         System.out.println("sum :" +digit);
     }
 }
+
+// 2
+// 4
+// 6
+// 8
+// 10
+// sum :30
+
